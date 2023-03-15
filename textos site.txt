@@ -1,0 +1,11 @@
+https://www.youtube.com/watch?v=7-orzsht98k&t=157s
+
+biblioteca : https://www.w3schools.com/icons/fontawesome_icons_intro.asp
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+
+
+
+Cores site:
+
